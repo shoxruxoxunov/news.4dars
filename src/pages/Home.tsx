@@ -9,7 +9,7 @@ function Home() {
   return (
     <div className="pt-[30px] mb-[30px] container flex flex-col gap-5">
       {data &&
-        data.map((item:any) => {
+        data.map((item: any) => {
           console.log(item);
           return (
             <div key={item.id}>
