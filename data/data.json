@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Josuslik urushi: MRB Ukraina maxsus xizmatlariga qachondan yordam bera boshlagandi?",
+      "description": "The New York Times Rossiya tajovuzini qaytarishda muhim rol o‘ynagan Amerika va Ukraina maxsus xizmatlari o‘rtasidagi hamkorlik qanday rivojlangani haqidagi katta surishtiruvni e’lon qildi. Jurnalistlarning aniqlashicha, Amerika razvedkasi ukrainalik hamkasblari bilan 2014 yilda, Ukrainaning o‘sha vaqtdagi prezidenti Viktor Yanukovich Rossiyaga qochib ketganidan keyin yaqindan ishlay boshlagan. Shu bilan birga, NYT manbalari aytishicha, AQSh avvaliga bunday hamkorlikka u qadar qiziqish bildirmagan va ukrain maxsus xizmatlari ularni buning zarurligiga ishontirishiga to‘g‘ri kelgan. «Meduza» The New York Times matnidan asosiy joylarini keltirdi.",
+      "postedAt": "29.02.24",
+      "images": "https://storage.kun.uz/source/10/RfHJJihaSYk7bC699HuiOf777jKeqjMs.jpg",
+      "author": "BBC"
+    },
+    {
+      "id": 2,
+      "title": "Toshkentda Tracker 197 km/soat tezlikda yo‘lovchi avtobusiga kelib urildi",
+      "description": "Ma’lum qilinishicha, avtobus Mirzo Ulug‘bek tumani, Yangi O‘zbekiston ko‘chasi chorrahasidan qayrilib olish vaqtida qarama-qarshi yo‘nalishda harakatlangan Tracker rusumli yengil avtomobil yuqori tezlikda (197 km/soat) kelib, avtobus bilan (o‘rta shina qismiga tegib) to‘qnashuv sodir etgan. ",
+      "postedAt": "28.02.24",
+      "images": "https://storage.kun.uz/source/10/tGSkaCeW5SyZTXRHsbhvfS0wizW8J_Jf.jpg",
+      "author": "Uz.News"
+    },
+    {
+      "id": 3,
+      "title": "Dehqonlar «qo‘zg‘oloni»: yevropalik fermerlar nimadan norozi?",
+      "description": "Oxirgi vaqtlarda Yevropaning ko‘plab davlatlarida mintaqadagi asosiy oziq-ovqat ishlab chiqaruvchilar bo‘lmish fermerlar o‘z hukumatlariga keskin e’tirozlarini bildirib kelmoqda. 26 fevral kuni Belgiya poytaxti Bryusselda joylashgan Yevropa Ittifoqi binosi yaqinida yirik agronamoyish bo‘lib o‘tdi ",
+      "postedAt": "27.02.24",
+      "images": "https://storage.kun.uz/source/10/IN2crcx8vOLjHBHSfRvTaCzJk80yCCTM.jpg",
+      "author": "Qalampir"
+    },
+    {
+      "id": 4,
+      "title": "Kechikkan Hindistondan shu yo‘ldagi O‘zbekiston uchun saboqlar (1-qism, Dehli)",
+      "description": "Dunyodagi eng ifloslangan 20 ta shahardan 13 tasi joylashgan, kamida 140 million odam me’yordan 10 baravar xavfli havodan nafas olayotgan, aholisining o‘pkasi chekmaydigan yevropaliknikiga qaraganda 30 foizga zaifroq ishlaydigan Hindiston – Kun.uz jurnalisti nigohida.",
+      "postedAt": "26.02.24",
+      "images": "https://storage.kun.uz/source/10/C4lLvQrByOWyj0r8r1meTzC9a19ew29a.jpg",
+      "author": "Kun.Uz"
+    },
+    {
+      "id": 5,
+      "title": "Zoir Mirzayev telefon ishlatishdan voz kechgan maktabga pul mukofoti berishini ma’lum qildi",
+      "description": "Toshkent viloyati hokimi Zoir Mirzayev Chirchiq shahridagi maktab direktorlari bilan uchrashuvda o‘qituvchilari va o‘quvchilari dars paytida telefon ishlatishdan voz kechgan maktabga 300 million so‘m pul mukofoti berishini ma’lum qildi. Viloyat rahbari shu maqsadda «Telefonsiz maktab» tashabbusini ilgari surgan. ",
+      "postedAt": "25.02.24",
+      "images": "https://storage.kun.uz/source/10/tJHkX2XTTM-sZYU1X7o-JEiGqS0uF1IX.jpg",
+      "author": "Ozodlik.Radio"
+    }
+  ]
+}
